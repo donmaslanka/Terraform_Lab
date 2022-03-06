@@ -1,1 +1,2 @@
-# Terraform_Lab
+# terraform
+Terraform code files and resources
